@@ -1,0 +1,80 @@
+.inputDocs {
+flex : 2.3;
+background-color: rgb(179, 199, 217);
+height: calc(100vh - 20px);
+border: 1px solid #17181a;
+}
+ .inputDocsHeader{
+   
+    /* display: flex; */
+    margin-left: auto;
+    background-color: rgb(97, 143, 212);
+   
+   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin-bottom: 5px;
+   
+}
+/*
+.inputContent{
+
+} */
+
+
+
+
+.inputContentList{
+    padding: 0;
+    
+    list-style: none; 
+     
+}
+
+
+.inputContentListItem{
+ display : flex;
+ margin-bottom:1%;
+ font-size: 12px;
+ 
+}
+
+.inputContentText{
+    margin-right: 1.5%;
+    
+}
+
+.inputContentChoose{
+    display: flex;
+     margin-left: auto;
+
+}
+
+.inputContentType:focus{
+    outline: none;
+    border-style: none;
+   
+}
+
+.inputContentType{
+
+display: flex;
+border: none;
+align-items: center;
+width: 100px;
+margin-left:auto;
+
+}
+
+.design{
+    display: flex;
+        /* align-items: left; */
+        margin-right: 50px;
+     
+}
+
+.reset{
+    display: flex;
+    
+
+}

@@ -1,0 +1,17 @@
+.editorDocs{
+flex: 5.9;
+background: #e0ebc9;
+/* height: calc(100vh - 40px); */
+ border: 9px ;
+border-color: blue;
+border-style: double;
+
+}
+
+
+.editorDocsOutBox{
+    margin-top: 5%;
+    color: rgb(9, 114, 18); 
+    
+}
+

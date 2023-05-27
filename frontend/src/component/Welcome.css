@@ -1,0 +1,28 @@
+.Welcome{
+   
+    background: #b43737;
+    margin-top: 50%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.Text
+{
+    margin-top: 5%;
+    border-width: auto;
+    text-indent: 10%;
+    margin-left: 7%;
+    margin-right: 7%;
+    color: #521f1f;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.headerText{
+    margin-top: 2%;
+    border-width: auto;
+        text-align: center;
+        font-size: 60px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       
+}
